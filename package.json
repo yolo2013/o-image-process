@@ -1,6 +1,6 @@
 {
   "name": "o-image-process",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Image process for oMeng.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yolo2013/iShell.git"
+    "url": "https://github.com/yolo2013/o-image-process.git"
   },
   "keywords": [
     "image", "gm"
@@ -30,7 +30,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yolo2013/iShell/issues"
+    "url": "https://github.com/yolo2013/o-image-process/issues"
   },
-  "homepage": "https://github.com/yolo2013/iShell"
+  "homepage": "https://github.com/yolo2013/o-image-process"
 }

@@ -14,7 +14,7 @@ const imageminPngquant = require('imagemin-pngquant');
 const exts = ['.jpg', '.jpeg', '.png'];
 
 program
-    .version('1.0.5')
+    .version('1.0.6')
     .option('-s, --scale', 'image scaling')
     .option('-e, --extra', 'extra string append to the file name')
     .option('-f, --folder', 'original image folder name')
