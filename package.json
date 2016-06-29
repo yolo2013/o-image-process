@@ -1,0 +1,36 @@
+{
+  "name": "o-image-process",
+  "version": "1.0.5",
+  "description": "Image process for oMeng.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "oip": "index.js"
+  },
+  "dependencies": {
+    "commander": "^2.3.0",
+    "imagemin": "^5.2.2",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "jimp": "^0.2.24",
+    "shelljs": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yolo2013/iShell.git"
+  },
+  "keywords": [
+    "image", "gm"
+  ],
+  "author": {
+    "name": "Hua Xu",
+    "email": "xuhua.yolo@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yolo2013/iShell/issues"
+  },
+  "homepage": "https://github.com/yolo2013/iShell"
+}
